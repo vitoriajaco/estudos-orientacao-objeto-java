@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4d39052-732c-477c-b28a-f60cd576d7c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicio5/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio5/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio6/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio6/entities/Departament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio6/entities/HourContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio6/entities/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio6/enums/WorkerLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
