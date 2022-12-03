@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4d39052-732c-477c-b28a-f60cd576d7c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicio6/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio6/entities/Departament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio6/entities/HourContract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio6/entities/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio6/enums/WorkerLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio6/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio6/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.exercicio6.application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio5.Program" />
       <module name="estudosPOO" />
@@ -94,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicio1.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio1.application.Program" />
+    <configuration name="exercicio6.application.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio6.application.Program" />
       <module name="estudosPOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio1.application.*" />
+          <option name="PATTERN" value="exercicio6.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio6.application.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.ProgramCalculator" />
         <item itemvalue="Application.ProgramEmployee" />
         <item itemvalue="Application.ProgramExercicio1" />
-        <item itemvalue="Application.exercicio1.application.Program" />
       </list>
     </recent_temporary>
   </component>
