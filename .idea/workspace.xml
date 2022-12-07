@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4d39052-732c-477c-b28a-f60cd576d7c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exercicio7/entities/SavingsAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exercicio6/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio6/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio7/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio7/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio7/entities/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio7/entities/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio7/entities/BusinessAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio7/entities/BusinessAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
